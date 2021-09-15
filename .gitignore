@@ -1,0 +1,11 @@
+/venv
+.env*
+/dbs
+node_modules/
+.ipynb_checkpoints
+config.py
+__pycache__
+postgresql/
+downloads/
+mongo/
+neo4j/
